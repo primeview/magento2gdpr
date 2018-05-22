@@ -17,7 +17,7 @@ See [license](https://github.com/AdFabConnect/magento2gdpr/blob/master/LICENSE)
 As a classic magento2 module, just install through composer
 
 ```bash
-composer require adfab/m2-module-gdpr
+composer require primeview/m2-module-gdpr
 php bin/magento cache:clean
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
