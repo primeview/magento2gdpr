@@ -1,6 +1,7 @@
 {
     "name": "primeview/m2-module-gdpr",
     "description": "GDPR compatibility",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
